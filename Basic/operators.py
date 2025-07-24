@@ -7,6 +7,10 @@
 ** - exponent
 // - quotient
 % - remainder
+<
+<=
+>
+>=
 
  ----
 5%2  ===>>1

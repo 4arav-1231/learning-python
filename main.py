@@ -1,2 +1,2 @@
-import Basic.grades
+import inputs.grades
 
