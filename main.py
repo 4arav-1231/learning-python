@@ -1,2 +1,2 @@
-import inputs.agecalculator
+import Conditions.evenorodd
 
