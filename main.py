@@ -1,2 +1,2 @@
-import Conditions.evenorodd
+import Conditions.rockpaperscissors
 
