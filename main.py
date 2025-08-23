@@ -1,2 +1,2 @@
-import Conditions.rockpaperscissors
+import Conditions.game
 
