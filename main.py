@@ -1,2 +1,1 @@
-import Conditions.game
-
+import loops.factors
