@@ -17,6 +17,6 @@ for i in range(10):
 
 
 # Range values
-# range(stop) --> start = 0, step = 3
+# range(stop) --> start = 0, step = 1
 # range(start, stop) -->step = 1
 # range(start, stop, step)

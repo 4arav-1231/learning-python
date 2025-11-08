@@ -1,1 +1,1 @@
-import loops.factors
+import loops.whileloopcodes.primenumwhileloop
