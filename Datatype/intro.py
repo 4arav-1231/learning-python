@@ -1,6 +1,6 @@
-internet is all about data
+"""internet is all about data"""
 
-Text
+"""Text
 Numbers
 Symbols
 file(video, music, image)
@@ -18,4 +18,4 @@ Text --> Strings(A-Z, a-z, 0-9, @, #, )
 Number --> int (integers) 0, 1, -99, 501
        --> float (decimals) 0.2, 5.49, -84.23, 3.00
 
-Boolean --> True or False
+Boolean --> True or False"""

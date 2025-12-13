@@ -1,1 +1,1 @@
-import loops.whileloopcodes.primenumwhileloop
+import Pattern.reversepyramid3

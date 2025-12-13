@@ -1,3 +1,19 @@
-https://cs50.harvard.edu/python/psets/4/game/ 
-- finished transform all the loops code using while loop - did for sumfactors.py
-- complete reverse num
+*****
+****
+***
+**
+*
+
+
+11111
+2222
+333
+44
+5
+
+
+55555
+4444
+333
+22
+1
