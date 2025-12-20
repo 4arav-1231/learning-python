@@ -1,1 +1,1 @@
-import Pattern.reversepyramid3
+import Pattern.hollowpyramid

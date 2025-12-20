@@ -1,19 +1,18 @@
-*****
-****
-***
-**
-*
+    * 
+   * * 
+  * * * 
+ * * * * 
+* * * * * 
+ * * * * 
+  * * * 
+   * * 
+    *
 
+#challenge 1 -- use to build the same using 5 loops
+#challenge 2 -- use to build the same using 3 loops
 
-11111
-2222
-333
-44
-5
-
-
-55555
-4444
-333
-22
-1
+    *
+   * *
+  *   *
+ *     *
+*********  
