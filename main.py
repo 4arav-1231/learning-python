@@ -1,1 +1,1 @@
-import Pattern.hollowpyramid
+import Pattern.hollowdiamond
