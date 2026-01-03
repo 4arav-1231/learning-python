@@ -20,4 +20,3 @@ for rows in range(1, size):
       print(" ",end=" ")
   print()
 
-
