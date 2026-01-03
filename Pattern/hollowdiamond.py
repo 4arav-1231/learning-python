@@ -15,9 +15,9 @@ for rows in range(1, size):
     print(" ", end="")
   for star in range(size,rows,-1):
     if (rows == size-1) or (star == size or star == rows+1):
-      print("*", end=" ")
+      print("* ", end="")
     else:
-      print(" ", end=" ")
+      print(" ",end=" ")
   print()
 
 
