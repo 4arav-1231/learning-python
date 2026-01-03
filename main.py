@@ -1,1 +1,1 @@
-import Pattern.hollowdiamond
+import functions.factorcount
