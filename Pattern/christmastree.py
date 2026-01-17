@@ -13,8 +13,11 @@ for i in range(0,3): #leaves
     print()
     
 for rows in range(0,size-1):#stem
-  for space in range(0,int(size/2)-1):
-    print(" ",end=" ")
+  for space in range(0, secondsize):
+    if size%2==0 and space == secondsize-1:
+      print(" ",end="")
+    else:
+      print(" ",end=" ")
   for star in range(0,3):
     if (rows == size-2)or (star ==0 or star == 2):
       print("*",end=" ")
