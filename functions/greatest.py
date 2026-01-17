@@ -15,5 +15,3 @@ wordv = input("Type another word: ")
 result = wordCheck(wordi,wordv)
 
 print(result)
-
-"""finding a palindrome word"""
