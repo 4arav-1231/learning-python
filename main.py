@@ -1,1 +1,1 @@
-import functions.palindromeword
+import functions.automorphicnum
