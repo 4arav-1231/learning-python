@@ -1,1 +1,1 @@
-import functions.automorphicnum
+import functions.tipcalculator
