@@ -1,1 +1,1 @@
-import functions.restaurant
+import cs50.interpreter
