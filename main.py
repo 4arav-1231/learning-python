@@ -1,1 +1,1 @@
-import cs50.interpreter
+import cs50.coke
