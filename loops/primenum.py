@@ -2,7 +2,6 @@
 
 while True:
   num = int(input("\nchoose a number: "))
-
   amt = 0
 
   for i in range(1, num+1, 1):
